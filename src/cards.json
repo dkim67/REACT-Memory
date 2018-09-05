@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Facebook",
+      "image": "https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png"
+    },
+    {
+      "id": 2,
+      "name": "Twitter",
+      "image": "https://s11284.pcdn.co/wp-content/uploads/2015/09/twitter-logo-250x250.png"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "image": "http://www.jrick.com/site/img/logos/Google-logoBLK-250.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Uber",
+      "image": "https://sophosnews.files.wordpress.com/2015/02/uber_250.jpg?w=250&h=250&crop=1"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft",
+      "image": "https://3yxwpv5cwa9at6t3ip7va1bg-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/logo-microsoft-250x250.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Airbnb",
+      "image": "https://zadarrentapartment.files.wordpress.com/2014/06/airbnb-logo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Apple",
+      "image": "https://cdn.macrumors.com/article-new/2014/08/apple_logo_white_gray.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Amazon",
+      "image": "https://d1ic4altzx8ueg.cloudfront.net/finder-us/wp-uploads/2016/02/amazon_logo_500500._V323939215_-250x250.png"
+    },
+    {
+      "id": 9,
+      "name": "Spotify",
+      "image": "https://www.logolynx.com/images/logolynx/s_25/2540486f3270c92b7876b51aa4ac129a.png"
+    },
+    {
+      "id": 10,
+      "name": "Pandora",
+      "image": "https://d1ic4altzx8ueg.cloudfront.net/finder-au/wp-uploads/2015/06/Pandora-Review.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Home Depot",
+      "image": "https://goodlogo.com/images/logos/home_depot_logo_2776.gif"
+    },
+    {
+      "id": 12,
+      "name": "Snapchat",
+      "image": "https://www.geekfence.com/wp-content/uploads/2016/08/snapchat1-1.png"
+    }
+  ]
