@@ -13,7 +13,7 @@ function Navbar(props) {
 				<a style={{cursor: 'pointer'}}className='left' onClick={() => 
 					{document.getElementsByClassName('instructionsModal')[0].classList.remove('hide');
 				}}></a>
-				<a href="/" className='brand-logo center'>React Logo Memory Game</a>
+				<a href="/" className='brand-logo center title'>React Memory Game!</a>
 				<ul className='right'>
 					<li style={{paddingRight: "30px"}}>Score: {props.score}</li>
 					<li style={{paddingLeft: "3.nav0px"}}>Top Score: {props.topScore}</li>
