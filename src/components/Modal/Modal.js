@@ -19,7 +19,7 @@ function Modal() {
 			<div className="modal-footer white-text center">
 				<a className="waves-effect waves-light btn" onClick={() => {
 					document.getElementsByClassName('instructionsModal')[0].classList.add('hide');
-				}}>Go Get Em!</a>
+				}}>Don't Forget!</a>
 			</div>	
 		</div>
 	)
